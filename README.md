@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @snoziroh
+- 👀 I’m interested in Java and Angular
+- 📫 Contact me at q.tm2511@gmail.com
